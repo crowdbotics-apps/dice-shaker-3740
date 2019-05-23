@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT dice_shaker_3740.wsgi:application
